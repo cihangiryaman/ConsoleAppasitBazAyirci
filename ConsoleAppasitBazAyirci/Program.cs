@@ -29,7 +29,7 @@ namespace ConsoleAppasitBazAyirci
             if (tadımVarmı == 0)
             {
 
-                Console.WriteLine("Turnusol kağıdınız var mı ?(varsa 1'e ,yoksa 0'a tıklayınız");
+                Console.WriteLine("Turnusol kağıdınız var mı ?(varsa 1'e yoksa 0'a tıklayınız");
                 int turnusolKagidiVarmıYokmu = Convert.ToInt32(Console.ReadLine());
 
                 if (turnusolKagidiVarmıYokmu == 1)
