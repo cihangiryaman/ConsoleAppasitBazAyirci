@@ -35,7 +35,7 @@ namespace ConsoleAppasitBazAyirci
                 if (turnusolKagidiVarmıYokmu == 1)
                 {
                                                    
-                   Console.WriteLine("hangi renge dönüyor ?(kırmızıysa 1,maviyse 0'a tıklayınız");
+                   Console.WriteLine("hangi renge dönüyor ?(kırmızıysa 1,maviyse 0'a tıklayınıznnnn");
                    int turnusolDönenRenk = Convert.ToInt32(Console.ReadLine());
 
                    if (turnusolDönenRenk == 1)
